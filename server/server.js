@@ -5,7 +5,7 @@ const cors = require("cors");
 app.use(express.json());
 app.use(cors());
 
-const PORT =  5000;
+const PORT =  2000;
 
 connection = "mongodb+srv://brennakj3:hothx@hothx.qhbffkc.mongodb.net/?retryWrites=true&w=majority"
 mongoose
