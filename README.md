@@ -7,7 +7,7 @@ git clone https://github.com/brennakj3/HOTHX.git
 Inside the root directory of the project, run
 
 ```
-cd frontend
+cd client
 npm install
 ```
 
